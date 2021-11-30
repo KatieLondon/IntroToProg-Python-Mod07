@@ -64,7 +64,7 @@ Figure 4: Screenshot of Menu option choice 2 working in PyCharm
 
 Figure 5: Screenshot of Menu option choice 3 working in PyCharm
 
-Figure 6: Screenshot of menu option choice 4 working in PyCharm
+![Figure 6](https://github.com/KatieLondon/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-28%20at%208.50.26%20PM.png?raw=true) <br> Figure 6: Screenshot of menu option choice 4 working in PyCharm <br> <br>
 
 ![Figure 7](https://github.com/KatieLondon/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-28%20at%208.51.54%20PM.png?raw=true) <br> Figure 7: Screenshot of menu option choice 5 working in PyCharm <br> <br>
 
