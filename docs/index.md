@@ -70,7 +70,7 @@ Figure 7: Screenshot of menu option choice 5 working in PyCharm
 
 Figure 7: Screenshot of menu option choice 5 working in PyCharm
 
-Figure 8: Screenshot of the Assignment06 script successfully running in Terminal
+![Figure 8](https://github.com/KatieLondon/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-28%20at%208.54.48%20PM.png?raw=true) Screenshot of the Assignment06 script successfully running in Terminal
 ## Summary
 To complete assignment 7, we researched and created a script with demonstrations of pickling and structured error handling.  I used the internet sites listed earlier to learn about the two topics.  Then I created demonstrations in the Assignment07.py script to show what I learned.  For the pickling demonstration, I created a file and stored the serialized data within the file in binary format.  Then I unpickled the binary data and stored it in a list.  For the error handling demo, I created six test cases, to demonstrate the different error handling features.
 
