@@ -54,7 +54,9 @@ I ran the pickling demo in PyCharm.  The only output was the printed list of veg
 
 Figure 1: Pickling demo output in PyCharm
 
-![Figure 2](https://github.com/KatieLondon/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-30%20at%201.32.02%20PM.png?raw=true)
+![Figure 1](https://github.com/KatieLondon/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-30%20at%201.32.02%20PM.png?raw=true "Figure 1: Pickling demo output in PyCharm")
+
+![Figure 2](https://github.com/KatieLondon/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-30%20at%201.32.17%20PM.png?raw=true "Pickling demo output in Terminal)
 
 Figure 3: Screenshot of Menu option choice 1 in PyCharm
 
